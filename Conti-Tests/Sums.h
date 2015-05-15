@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
 
+@interface Sums : UIViewController
+
+@property NSMutableDictionary* mem;
 
 @end
 
